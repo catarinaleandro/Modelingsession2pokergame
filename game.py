@@ -88,3 +88,4 @@ print(f"The probability of straight is {100*matches/count}%")
 
 
 
+
